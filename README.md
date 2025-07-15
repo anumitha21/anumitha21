@@ -50,7 +50,7 @@
 
 ---
 
-🌟 ** Motto:**  
+🌟 **Motto:**  
 <blockquote>
   Plan everything like a perfectionist. Execute with curiosity, and grow like there’s no ceiling.
 </blockquote>
