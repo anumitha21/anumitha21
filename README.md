@@ -8,7 +8,7 @@
 
 ## ✨ About Me
 
-- 🔭 Currently exploring in the world of Artificial Intelligence and Machine Learning.
+- 🔭 Currently exploring the world of Artificial Intelligence and Machine Learning and building projects.
 - 🎓 I'm currently pursuing Second year computer science undergraduate
 
 ---
@@ -50,7 +50,7 @@
 
 ---
 
-🌟 **Personal Motto:**  
+🌟 ** Motto:**  
 <blockquote>
   Plan everything like a perfectionist. Execute with curiosity, and grow like there’s no ceiling.
 </blockquote>
