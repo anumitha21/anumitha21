@@ -1,4 +1,4 @@
-<h2 align="left">Hi there, I'm Anumitha! 👋</h2>
+<h2 align="left">Hi there, I'm Anumitha!😎 👋</h2>
 
 <p align="left">
   <em>Aspiring AI Engineer | Passionate AI & ML Enthusiast | Student </em>
@@ -6,7 +6,7 @@
 
 ---
 
-## 👩‍💻 About Me
+## ✨ About Me
 
 - 🔭 Currently exploring in the world of Artificial Intelligence and Machine Learning.
 - 🎓 I'm currently pursuing Second year computer science undergraduate
@@ -37,7 +37,6 @@
 <p align="left">
   <img src="https://streak-stats.demolab.com?user=anumitha21&theme=tokyonight&hide_border=true" />
   <br>
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=anumitha21&theme=github-compact" />
 </p>
 
 ---
