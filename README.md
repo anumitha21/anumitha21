@@ -34,11 +34,15 @@
 </div>
 
 ---
-
 ### 🔥 GitHub Streak & Activity
 
-![GitHub Streak](https://streak-stats.demolab.com?user=anumitha21&theme=tokyonight&hide_border=true)
+<p align="left">
+  <!-- Streak stats (service: streak-stats.demolab.com) -->
+  <img src="https://streak-stats.demolab.com?user=anumitha21&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
+  <!-- Contribution activity graph (service: activity-graph) -->
+  <img src="https://activity-graph.herokuapp.com/graph?username=anumitha21&theme=react-dark" alt="Contribution Graph" />
+</p>
 
 ## 🌱 Other Interests
 
