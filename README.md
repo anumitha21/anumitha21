@@ -1,7 +1,7 @@
-<h2 align="left">Hi there, I'm Anumitha!😎 👋</h2>
+# Hi there, I'm Anumitha! 😎 👋
 
 <p align="left">
-  <em>Aspiring AI Engineer | Passionate AI & ML Enthusiast | Student </em>
+  <em>Aspiring AI Engineer | Passionate AI & ML Enthusiast | Student</em>
 </p>
 
 ---
@@ -9,23 +9,22 @@
 ## ✨ About Me
 
 - 🔭 Currently exploring the world of Artificial Intelligence and Machine Learning and building projects.
-- 🎓 I'm currently pursuing Second year computer science undergraduate
+- 🎓 I'm a second-year Computer Science undergraduate.
 
 ---
 
 ## 💻 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black)
-![Seaborn](https://img.shields.io/badge/Seaborn-76b7b2?style=for-the-badge)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-
-
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-00AEEF?style=for-the-badge&logo=langchain&logoColor=white)
 
 ---
 
@@ -58,8 +57,6 @@
 <blockquote>
   Plan everything like a perfectionist. Execute with curiosity, and grow like there’s no ceiling.
 </blockquote>
-
----
 
 ## 📫 Connect with Me
 
