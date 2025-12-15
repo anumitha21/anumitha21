@@ -21,7 +21,6 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-00AEEF?style=for-the-badge&logo=langchain&logoColor=white)
@@ -37,12 +36,9 @@
 ---
 
 ### 🔥 GitHub Streak & Activity
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=anumitha21&theme=tokyonight&hide_border=true" />
-  <br>
-</p>
 
----
+![GitHub Streak](https://streak-stats.demolab.com?user=anumitha21&theme=tokyonight&hide_border=true)
+
 
 ## 🌱 Other Interests
 
