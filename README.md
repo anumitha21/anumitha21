@@ -34,16 +34,17 @@
 ## 🛠️ Technical Stack
 
 ### 💻 Programming Languages
-<img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts" />
+<img src="https://skillicons.dev/icons?i=python,cpp,c" />
 
 ---
 
 ### 🧠 AI / ML
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/><img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/><img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/><img src="https://img.shields.io/badge/RAG%20Systems-0A66C2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/><img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/><img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/> 
+<img src="https://img.shields.io/badge/LangGraph-0A66C2?style=for-the-badge"/> <img src="https://img.shields.io/badge/RAG%20Systems-0A66C2?style=for-the-badge"/>
 
 ---
 
-### 📊 Data Engineering & Big Data
+### 📊 Data Engineering
 <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/><img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/><img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/><img src="https://img.shields.io/badge/Astronomer-FF6F00?style=for-the-badge"/><img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/><img src="https://img.shields.io/badge/ETL%20Pipelines-4B0082?style=for-the-badge"/>
 
 ---
@@ -53,18 +54,8 @@
 
 ---
 
-### 🌐 Development
-<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express" />
-
----
-
 ### ☁️ Cloud & DevOps
 <img src="https://skillicons.dev/icons?i=docker,aws,kubernetes,git,github,vscode" />
-
----
-
-### 🛠️ Tools & Platforms
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/><img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
 
 ---
 
@@ -90,6 +81,10 @@
 - Psychology  
 
 ---
+
+Learning:   █████████░░ 80%
+Building:   ████████░░░ 70%
+Exploring:  ██████████ 100%
 
 ## 🌐 Connect
 
