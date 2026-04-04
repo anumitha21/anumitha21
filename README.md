@@ -1,15 +1,12 @@
-<h1>👋 Hi, I'm Anumitha</h1>
+<h1> Hi, I'm Anumitha</h1>
 <h3>🚀 AI & Data Engineering Enthusiast | CSE Undergraduate | Building Real-World Intelligent Systems</h3>
 
 <img src="https://komarev.com/ghpvc/?username=anumitha21&label=Profile%20Views&color=0e75b6&style=flat" />
 
 ---
-
-## 🧠 Profile Summary
-
-🎓 Computer Science undergraduate with a strong interest in **Artificial Intelligence, Machine Learning, and Data Engineering**
-
-💡 Passionate about building **production-oriented AI systems**, not just theoretical models  
+## About me
+- Computer Science undergraduate with a strong interest in **Artificial Intelligence, Machine Learning, and Data Engineering**
+- Passionate about building **production-oriented AI systems**, not just theoretical models  
 
 ⚙️ Experienced in developing:
 - RAG-based applications  
@@ -55,7 +52,7 @@
 ---
 
 ### ☁️ Cloud & DevOps
-<img src="https://skillicons.dev/icons?i=docker,aws,kubernetes,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=docker,aws,git,github,vscode" />
 
 ---
 
@@ -81,10 +78,6 @@
 - Psychology  
 
 ---
-
-Learning:   █████████░░ 80%
-Building:   ████████░░░ 70%
-Exploring:  ██████████ 100%
 
 ## 🌐 Connect
 
