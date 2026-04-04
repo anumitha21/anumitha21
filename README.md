@@ -17,8 +17,6 @@
 - Data pipelines & ETL workflows  
 - Intelligent automation tools  
 
-📍 Based in **Chennai, India**
-
 > ⚡ *"I don’t just learn technology — I build systems that actually work."*
 
 ---
@@ -79,22 +77,6 @@
 
 ---
 
-## 📌 Key Projects
-
-🔹 **LinguaChain**  
-→ AI-powered language processing system using LLM workflows  
-
-🔹 **RAGBot**  
-→ Retrieval-Augmented chatbot with contextual answering  
-
-🔹 **Agentic Chatbot**  
-→ Multi-step reasoning AI agent with task execution  
-
-🔹 **AutoBlogX**  
-→ Automated content generation using AI pipelines  
-
----
-
 ## 📊 GitHub Analytics
 
 <img src="https://github-readme-stats.vercel.app/api?username=anumitha21&show_icons=true&theme=tokyonight" />
@@ -105,20 +87,13 @@
 
 ---
 
-## 🌱 Current Focus
-
-- 📊 Advanced Data Engineering (Spark, Kafka, System Design)  
-- 🤖 Production-grade AI Systems  
-- 🔄 Building scalable ETL pipelines  
-- 🧠 Agentic AI architectures  
-
----
 
 ## 🎯 Interests
 
 - Artificial Intelligence  
 - Machine Learning  
-- Data Engineering  
+- Data Engineering
+- Data and CI/CD pipelines
 - UI/UX Design  
 - Video Editing & Creativity  
 - Psychology  
