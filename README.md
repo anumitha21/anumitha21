@@ -1,4 +1,4 @@
-<h1> Hi, I'm Anumitha</h1>
+<h1> Hi, I'm Anumitha V</h1>
 <h3>🚀 AI & Data Engineering Enthusiast | CSE Undergraduate | Building Real-World Intelligent Systems</h3>
 
 <img src="https://komarev.com/ghpvc/?username=anumitha21&label=Profile%20Views&color=0e75b6&style=flat" />
