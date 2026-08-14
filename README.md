@@ -118,6 +118,14 @@ My interests span the AI stack:
 
 ✦　·　🌙　·　⭐　·　🐈‍⬛　·　🚀　·　⭐　·　🌙　·　✦
 
+## 🎯 Interests
+- 🌌 Astronomy
+- 🎨 UI/UX & Creative Technology
+- 🎬 Video Editing
+- 🧠 Psychology
+
+---
+
 </p>
 
 ## 📊 GitHub
@@ -147,6 +155,17 @@ My interests span the AI stack:
       alt="GitHub Contribution Snake"
     />
   </picture>
+</p>
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="mailto:anumitha5831@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/anumitha-v-1a5b29313/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 <p align="center"> <i>Still exploring the universe. 🌌</i> </p>
