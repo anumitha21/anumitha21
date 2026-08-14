@@ -1,4 +1,6 @@
-# 🌌 Hey, I'm Anumitha
+# 🌌 Hi, I'm Anumitha V
+
+### 🚀 AI / GenAI Engineer in the Making | CSE Undergraduate | Building Intelligent Systems
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=AI+%2F+GenAI+Engineer+in+the+making+%F0%9F%9A%80;Exploring+Machine+Learning+%26+Generative+AI+%F0%9F%A4%96;Building+AI+systems+with+curiosity+%F0%9F%8C%8C" />
@@ -16,15 +18,25 @@
 
 ## 👩‍💻 About Me
 
-Hey! I'm Anumitha — an aspiring AI / GenAI Engineer passionate about understanding and building intelligent systems. 🤖
+- 🎓 Computer Science undergraduate with a strong interest in **Artificial Intelligence, Machine Learning, and Generative AI**
+- 🤖 Passionate about understanding **how intelligent systems work**, from mathematical foundations to modern LLM-powered applications
+- ⚙️ Interested in building **practical, production-oriented AI systems**, not just experimenting with models
+- 🧠 Exploring the journey from **Machine Learning → Deep Learning → NLP → Transformers → LLMs → RAG → Agentic AI**
+- 🔧 I enjoy working across both the **AI/model side** and the **engineering side** of intelligent systems
 
- What I'm Into
-
-My interests span the AI stack:
-
-🧮 Machine Learning → 🧠 Deep Learning → 📝 NLP → ⚡ Transformers → 🤖 LLMs → 🔍 RAG → 🌐 Agentic AI
+> ⚡ *"I don't just want to use AI — I want to understand what's happening underneath and build systems that actually work."*
 
 ---
+
+## 🚀 Core Expertise
+
+- 🤖 **Artificial Intelligence & Machine Learning**
+- 🧠 **Deep Learning & NLP**
+- ⚡ **Transformers & Large Language Models**
+- 🔍 **RAG & Semantic Retrieval**
+- 🧩 **Agentic AI & LLM Workflows**
+- 🎙️ **Voice AI & Speech Systems**
+- ⚙️ **Backend Development for AI Systems**
 
 ## 🛠️ Tech Stack
 
