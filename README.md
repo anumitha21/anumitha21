@@ -1,94 +1,125 @@
-<h1> Hi, I'm Anumitha V</h1>
-<h3>🚀 AI & Data Engineering Enthusiast | CSE Undergraduate | Building Real-World Intelligent Systems</h3>
+# 🌌 Hey, I'm Anumitha
 
-<img src="https://komarev.com/ghpvc/?username=anumitha21&label=Profile%20Views&color=0e75b6&style=flat" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=AI+%2F+GenAI+Engineer+in+the+making+%F0%9F%9A%80;Exploring+Machine+Learning+%26+Generative+AI+%F0%9F%A4%96;Building+AI+systems+with+curiosity+%F0%9F%8C%8C" />
+</p>
 
----
-## About me
-- Computer Science undergraduate with a strong interest in **Artificial Intelligence, Machine Learning, and Data Engineering**
-- Passionate about building **production-oriented AI systems**, not just theoretical models  
+<p align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="160"/>
+</p>
 
-⚙️ Experienced in developing:
-- RAG-based applications  
-- Agentic AI systems  
-- Data pipelines & ETL workflows  
-- Intelligent automation tools  
-
-> ⚡ *"I don’t just learn technology — I build systems that actually work."*
+<p align="center">
+  <i>Learning how intelligent systems work, one layer at a time.</i>
+</p>
 
 ---
 
-## 🚀 Core Expertise
+## 👩‍💻 About Me
 
-- 🤖 Artificial Intelligence & Machine Learning  
-- 🧩 Agentic AI & RAG Systems  
-- 📊 Data Engineering & Pipeline Design  
-- ⚙️ Backend Development for AI Systems  
-- 📈 Problem Solving & Product Thinking  
+I'm an aspiring **AI / GenAI Engineer** interested in building intelligent systems and understanding the foundations behind them.
 
----
+My interests currently revolve around:
 
-## 🛠️ Technical Stack
+**Machine Learning → Deep Learning → NLP → Transformers → LLMs → RAG → Agentic AI**
 
-### 💻 Programming Languages
-<img src="https://skillicons.dev/icons?i=python,cpp,c" />
+I enjoy working across both the **model side** and the **engineering side** of AI.
 
 ---
 
-### 🧠 AI / ML
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/><img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/><img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/> 
-<img src="https://img.shields.io/badge/LangGraph-0A66C2?style=for-the-badge"/> <img src="https://img.shields.io/badge/RAG%20Systems-0A66C2?style=for-the-badge"/>
+## 🛠️ Tech Stack
 
----
+### 💻 Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,js" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+### 🧠 Machine Learning & Data
+
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch" />
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+</p>
+
+### 🤖 Generative AI & LLMs
+
+<p>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
+</p>
+
+### 🔍 RAG & Retrieval
+
+<p>
+  <img src="https://img.shields.io/badge/ChromaDB-FF6F61?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white" />
+  <img src="https://img.shields.io/badge/Embeddings-7C3AED?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Semantic%20Search-4F46E5?style=for-the-badge&logo=google&logoColor=white" />
+</p>
+
+### 🎙️ Voice AI
+
+<p>
+  <img src="https://img.shields.io/badge/Whisper-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge&logo=elevenlabs&logoColor=white" />
+  <img src="https://img.shields.io/badge/STT-6366F1?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/TTS-8B5CF6?style=for-the-badge&logo=google&logoColor=white" />
+</p>
+
+### ⚙️ Backend & Web
+
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,django,nodejs,react,nextjs" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20API-0EA5E9?style=for-the-badge&logo=fastapi&logoColor=white" />
+</p>
+
+### 🗄️ Databases & Infrastructure
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker,git,github" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/BullMQ-EF4444?style=for-the-badge&logo=redis&logoColor=white" />
+</p>
 
 ### 📊 Data Engineering
-<img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/><img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/><img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/><img src="https://img.shields.io/badge/Astronomer-FF6F00?style=for-the-badge"/><img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/><img src="https://img.shields.io/badge/ETL%20Pipelines-4B0082?style=for-the-badge"/>
+
+<p>
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Distributed%20Systems-334155?style=for-the-badge&logo=apache&logoColor=white" />
+  <img src="https://img.shields.io/badge/Big%20Data-2563EB?style=for-the-badge&logo=databricks&logoColor=white" />
+</p>
 
 ---
 
-### 🗄️ Databases
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+## 📊 GitHub
 
----
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anumitha21&theme=tokyonight&hide_border=true&background=0D1117" />
+</p>
 
-### ☁️ Cloud & DevOps
-<img src="https://skillicons.dev/icons?i=docker,aws,git,github,vscode" />
+<br>
 
----
-
-## 📊 GitHub Analytics
-
-<img src="https://github-readme-stats.vercel.app/api?username=anumitha21&show_icons=true&theme=tokyonight" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anumitha21&theme=tokyonight" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anumitha21&layout=compact&theme=tokyonight" />
-
----
-
-
-## 🎯 Interests
-
-- Artificial Intelligence  
-- Machine Learning  
-- Data Engineering
-- Data and CI/CD pipelines
-- UI/UX Design  
-- Video Editing & Creativity  
-- Psychology  
-
----
-
-## 🌐 Connect
-
-<a href="https://www.linkedin.com/in/anumitha-venkatesan-1a5b29313">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/anumitha21">
-  <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
----
-
-⭐ Always building. Always learning. Always improving.
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anumitha21&bg_color=0D1117&color=A78BFA&line=7C3AED&point=FFFFFF&area=true&hide_border=true" />
+</p>
