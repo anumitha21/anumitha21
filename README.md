@@ -16,13 +16,13 @@
 
 ## 👩‍💻 About Me
 
-I'm an aspiring **AI / GenAI Engineer** interested in building intelligent systems and understanding the foundations behind them.
+Hey! I'm Anumitha — an aspiring AI / GenAI Engineer passionate about understanding and building intelligent systems. 🤖
 
-My interests currently revolve around:
+ What I'm Into
 
-**Machine Learning → Deep Learning → NLP → Transformers → LLMs → RAG → Agentic AI**
+My interests span the AI stack:
 
-I enjoy working across both the **model side** and the **engineering side** of AI.
+🧮 Machine Learning → 🧠 Deep Learning → 📝 NLP → ⚡ Transformers → 🤖 LLMs → 🔍 RAG → 🌐 Agentic AI
 
 ---
 
@@ -112,6 +112,14 @@ I enjoy working across both the **model side** and the **engineering side** of A
 
 ---
 
+
+
+<p align="center">
+
+✦　·　🌙　·　⭐　·　🐈‍⬛　·　🚀　·　⭐　·　🌙　·　✦
+
+</p>
+
 ## 📊 GitHub
 
 <p align="center">
@@ -140,3 +148,5 @@ I enjoy working across both the **model side** and the **engineering side** of A
     />
   </picture>
 </p>
+
+<p align="center"> <i>Still exploring the universe. 🌌</i> </p>
