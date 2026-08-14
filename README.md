@@ -143,15 +143,9 @@
 ## 📊 GitHub
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anumitha21&theme=tokyonight&hide_border=true&background=0D1117" />
+  <img src="./profile/stats.svg" width="500"/>
 </p>
-
 <br>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anumitha21&bg_color=0D1117&color=A78BFA&line=7C3AED&point=FFFFFF&area=true&hide_border=true" />
-</p>
-
 <p align="center">
   <picture>
     <source
@@ -168,6 +162,8 @@
     />
   </picture>
 </p>
+
+
 
 ## 🌐 Connect With Me
 
